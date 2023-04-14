@@ -33,6 +33,10 @@ application:
          - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'
          #yhosts 
          - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'
+         #秋风
+         - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'
+         #Adaway
+         - 'https://adaway.org/hosts.txt'
          #Github加速1 
          - 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt'
          #Github加速2 
