@@ -2,7 +2,7 @@
 
 广告过滤规则整合，使用 [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) 定时更新
 > 可使用我搭建的私人DNS 详情可见[LINK](https://myipdns.top/archives/DNS) </br>
-> >AdGuard客户端(软件、扩展)、AdGuardHome、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`all.txt`</br>
+> AdGuard客户端(软件、扩展)、AdGuardHome、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`all.txt`</br>
 > AdAway 等其他仅支持 hosts 的工具，推荐使用：`hosts.txt`
 
 
