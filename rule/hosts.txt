@@ -1,7 +1,7 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-14 17:02:43
-! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+! Last Modified: 2023-04-14 17:12:52
+! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt
 104.22.8.141                   api.pureapk.com
 185.199.108.133                objects.githubusercontent.com
