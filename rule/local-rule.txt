@@ -1,3 +1,32 @@
+#图床
+@@||pic.imgdb.cn
+#微信支付
+@@||payapp.weixin.qq.com^
+#夸克网盘
+@@||pan.quark.cn^
+@@||drive.quark.cn^
+#夸克首页
+@@||myquark.cn^
+#小米骚扰拦截 数据库更新
+@@||api.sec.miui.com^
+#小米推送(mipush)
+@@||cn.app.chat.xiaomi.net^
+#个推
+@@||sdk.open.talk.gepush.com^
+#公共CDN
+@@||bootcdn.net^
+#----------------黑名单-----------------
+||log.uu.163.com^
+||ksmobile.com^
+#MIUI浏览器搜索联想(会屏蔽广告和正常联想词)
+||exp.sug.browser.miui.com^
+#-----------------待定------------------
+#未知来源 广告/日志
+||toblog.ctobsnssdk.com^
+#-----------------Web------------------
+appinn.com##.featured-section
+appinn.com###sidebar.wp-block-image, .size-full
+appinn.com###latest-posts .latestPost:nth-child(-n+3)
 #知乎
 ||api.zhihu.com^
 ##大数据广告追踪
