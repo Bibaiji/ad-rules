@@ -37,8 +37,10 @@ application:
          - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'
          #Adaway
          - 'https://adaway.org/hosts.txt'
+         #大圣净化
+         - 'https://adaway.org/hosts.txt'
          #Github加速1 
-         - 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt'
+         - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
          #Github加速2 
          - 'https://raw.hellogithub.com/hosts'
     #    - 'https://example.org/rule.txt'
