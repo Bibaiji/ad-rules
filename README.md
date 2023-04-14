@@ -11,16 +11,6 @@
 - `HOSTS`：基于 `HOSTS` 的过滤规则，适用于支持 `HOSTS` 的所有设备
 
 本程序基于 `Java17` 编写，使用 `Maven` 进行构建，你可以参照示例配置，编辑 `src/main/resources/application.yml`
-，并通过以下任意一种方式快速开始：
-
-#### **本地调试**
-
-```bash
-git clone https://github.com/fordes123/ad-filters-subscriber.git
-cd ad-filters-subscriber
-mvn clean
-mvn spring-boot:run
-```
 
 #### **Github Action**
 
@@ -29,3 +19,6 @@ mvn spring-boot:run
     - 参照示例配置，修改配置文件: `src/main/resources/application.yml`，注意本地规则文件应放入项目根目录 `rule` 文件夹
 - 打开 `Github Action` 页面，选中左侧 `Update Filters` 授权 `Workflow` 定时执行(⚠ 重要步骤)
 - 点击 `Run workflow` 或等待自动执行。执行完成后相应规则生成在配置中指定的目录下
+
+#### **感谢**
+    本项目forked from fordes123/ad-filters-subscriber,十分感谢大佬的项目支持.
