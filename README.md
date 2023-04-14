@@ -34,3 +34,5 @@
     <li><a href="https://adaway.org/hosts.txt">Adaway</a></li>
 </ul>
 </details>
+当然你可以直接使用我搭建的私人DNS：dns.myipdns.top
+| `详情可见`   |[Link](https://myipdns.top/archives/DNS) |
