@@ -12,7 +12,7 @@
 | `domain.txt`  | `DOMAIN` 域名规则，仅完整域名                                                 | [Link]                        (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/domain.txt) |
 | `hosts.txt`   | `HOSTS` 规则，适用于几乎所有设备                                             | [Link]
 (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/hosts.txt)  | 
-| `modify.txt`  | `MODIFY` 修饰规则，添加了一些修饰符号的规则，AdG支持, `modify.txt` + `dns.txt` = `all.txt`                | [Link](https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/modify.txt) |
+| `modify.txt`  | `MODIFY` 修饰规则，添加了一些修饰符号的规则，AdG支持, `modify.txt` + `dns.txt` = `all.txt`                | [Link](https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/modify.txt) ||
 | `regex.txt`   | `REGEX` 正则规则，包含正则的域名规则，AdGH支持                                                 | [Link]
 (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/regex.txt) |
 <details>
