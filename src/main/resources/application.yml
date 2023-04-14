@@ -17,14 +17,35 @@ application:
   rule:
     #远程规则
     remote:
-    #      - 'https://example.org/rule.txt'
+         #Oisd Big 
+         - 'https://big.oisd.nl/'
+         #Oisd Nfsw 
+         - 'https://nsfw.oisd.nl/'
+         #anti-AD 
+         - 'https://anti-ad.net/easylist.txt'
+         #ADgk 
+         - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
+         #No Google 
+         - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt'
+         #10007 
+         - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt'
+         #1024 
+         - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'
+         #yhosts 
+         - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'
+         #Github加速1 
+         - 'https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt'
+         #Github加速2 
+         - 'https://raw.hellogithub.com/hosts'
+    #    - 'https://example.org/rule.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-  #      - 'local-rule.txt'
+        - 'local-rule.txt'
+ #      - 'local-rule.txt'
   output:
     file_header: |  #输出文件头, 占位符${name}将被替换为文件名，如all.txt,  ${date} 将被替换为当前日期
       [ADFS Adblock List]
-      ! Title: ${name}
+      ! Title: Bi'rule
       ! Last Modified: ${date}
       ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
     path: rule   #规则文件输出路径，相对路径默认从 项目目录开始
