@@ -1,24 +1,34 @@
-<div align="center">
-<h1>AD Filter Subscriber</h1>
-  <p>
-    广告过滤规则订阅器，整合不同来源的规则，帮助你快速构建属于自己的规则集~
-本项目旨在整合不同来源的广告过滤规则，通过 `Github Action` 定时执行，拉取远程规则，去重和分类输出。
-根据过滤规则的特性，本项目将规则分为 `DOMAIN`、`REGEX`、`MODIFY`、`HOSTS` 四种类型，它们之间互不包含， 你可在配置文件中自由的对四种类型进行组合：
+## AbBlock List
 
-- `DOMAIN`：基于域名的过滤规则，适用于几乎所有广告过滤工具
-- `REGEX`：基于正则表达式的**域名过滤**规则，适用于主流广告过滤工具
-- `MODIFY`：基于正则和其他修饰符的过滤规则，可以拦截页面上的特定元素，但不适用于DNS过滤
-- `HOSTS`：基于 `HOSTS` 的过滤规则，适用于支持 `HOSTS` 的所有设备
+广告过滤规则整合，使用 [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) 定时更新
+> AdGuard客户端(软件、扩展)、AdBlock、AdBlockPlus、uBlock Origin 推荐使用：`all.txt`</br>
+> AdGuardHome 推荐使用：`dns.txt`</br>
+> AdAway 等其他仅支持 hosts 的工具，推荐使用：`hosts.txt`
 
-本程序基于 `Java17` 编写，使用 `Maven` 进行构建，你可以参照示例配置，编辑 `src/main/resources/application.yml`
-
-#### **Github Action**
-
-- fork 本项目
-- 自定义规则订阅 (可选)
-    - 参照示例配置，修改配置文件: `src/main/resources/application.yml`，注意本地规则文件应放入项目根目录 `rule` 文件夹
-- 打开 `Github Action` 页面，选中左侧 `Update Filters` 授权 `Workflow` 定时执行(⚠ 重要步骤)
-- 点击 `Run workflow` 或等待自动执行。执行完成后相应规则生成在配置中指定的目录下
-
-#### **感谢**
-    本项目forked from fordes123/ad-filters-subscriber,十分感谢大佬的项目支持.
+| 名称            | 说明                                                                   |                                       Github                             |                                              
+|---------------|:---------------------------------------------------------------------|:----------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| `all.txt`     | 去重的规则合集，包含`DOMAIN`、`REGEX`、`MODIFY`、`HOSTS`，适用于 `AdGuard`、`AdBlock`等 |  [Link]                            (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/all.txt)   |  
+| `dns.txt`     | 包含 `DOMAIN`、`REGEX`、`HOSTS`规则，适用于`AdGuardHome` 等基于DNS的过滤工具           |  [Link]                    (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/dns.txt)   | 
+| `domain.txt`  | `DOMAIN` 域名规则，仅完整域名                                                 | [Link]                        (https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/domain.txt) |
+| `hosts.txt`   | `HOSTS` 规则，适用于几乎所有设备                                             | [Link]
+(https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/hosts.txt)  | 
+| `modify.txt`  | `MODIFY` 修饰规则，添加了一些修饰符号的规则，AdG支持, `modify.txt` + `dns.txt` = `all.txt`                | [Link](https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/modify.txt) |
+| `regex.txt`   | `REGEX` 正则规则，包含正则的域名规则，AdGH支持                                                 | [Link]
+(https://raw.githubusercontent.com/Bibaiji/ad-rules/main/rule/regex.txt) |
+<details>
+<summary>点击查看上游规则</summary>
+<ul>
+    <li><a href="https://big.oisd.nl/">Oisd Big</a></li>
+    <li><a href="https://nsfw.oisd.nl/">Oisd Nfsw</a></li>
+    <li><a href="https://anti-ad.net/easylist.txt">anti-AD</a></li>
+    <li><a href="https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt">ADgk</a></li>
+    <li><a href="https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt">No Google</a></li>
+    <li><a href="https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt">10007</a></li>
+    <li><a href="https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts">1024</a></li>
+    <li><a href="https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts">yhosts</a></li>
+    <li><a href="https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt">Github-hosts</a></li>
+    <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
+    <li><a href="https://raw.hellogithub.com/hosts">hellogithub</a></li>
+    <li><a href="https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts">Steam520</a></li>
+</ul>
+</details>
