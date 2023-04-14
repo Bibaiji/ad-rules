@@ -31,5 +31,6 @@
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://raw.hellogithub.com/hosts">hellogithub</a></li>
     <li><a href="https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts">Steam520</a></li>
+    <li><a href="https://adaway.org/hosts.txt">Adaway</a></li>
 </ul>
 </details>
