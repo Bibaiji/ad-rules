@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-14 17:53:37
+! Last Modified: 2023-04-14 18:00:36
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://file-git.trli.club/Domains/AccelerateHosts/github-hosts.txt
 104.22.8.141                   api.pureapk.com
