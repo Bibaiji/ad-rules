@@ -1,10 +1,7 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-14 23:06:54
+! Last Modified: 2023-04-14 23:21:50
 ! Homepage: https://github.com/Bibaiji/ad-rules/
-## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
-||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
-||tnc*.zijieapi.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ||adx.
 ||adx-
@@ -169,3 +166,9 @@ advertisers.js|
 @@||ulog*.*.com^$important
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 ||mishop.pandora.xiaomi.com.^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
+## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
+||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
+||tnc*.zijieapi.com^
