@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-15 10:22:11
+! Last Modified: 2023-04-15 16:26:50
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://raw.hellogithub.com/hosts
 185.199.110.153               githubstatus.com
@@ -13,7 +13,6 @@
 140.82.114.18                 github.community
 185.199.111.133               camo.githubusercontent.com
 192.0.66.2                    github.blog
-13.107.238.51                 vscode.dev
 185.199.108.133               avatars4.githubusercontent.com
 140.82.114.25                 alive.github.com
 185.199.108.133               user-images.githubusercontent.com
@@ -22,7 +21,6 @@
 185.199.108.133               avatars0.githubusercontent.com
 185.199.108.133               favicons.githubusercontent.com
 185.199.108.133               desktop.githubusercontent.com
-151.101.65.194                github.global.ssl.fastly.net
 140.82.113.4                  github.com
 13.107.42.16                  pipelines.actions.githubusercontent.com
 52.216.215.33                 github-production-user-asset-6210df.s3.amazonaws.com
@@ -38,6 +36,8 @@
 52.217.172.97                 github-production-release-asset-2e65be.s3.amazonaws.com
 185.199.108.133               github.map.fastly.net
 185.199.109.154               github.githubassets.com
+13.107.237.51                 vscode.dev
+151.101.129.194               github.global.ssl.fastly.net
 140.82.113.25                 live.github.com
 185.199.110.153               assets-cdn.github.com
 185.199.108.133               avatars2.githubusercontent.com

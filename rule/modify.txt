@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-15 10:22:11
+! Last Modified: 2023-04-15 16:26:50
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||101.207.252.229:443^
