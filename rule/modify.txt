@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-15 01:11:52
+! Last Modified: 2023-04-15 10:22:11
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||101.207.252.229:443^
@@ -6093,7 +6093,7 @@ vzhuan.cn###box
 ## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 ::1             localhost
 ::1             ip6-localhost
-## 👇This Part Merge from: https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts
-::1 localhost
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 ::1  localhost
+## 👇This Part Merge from: https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts
+::1 localhost
