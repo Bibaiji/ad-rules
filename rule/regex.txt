@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-16 23:40:08
+! Last Modified: 2023-04-17 00:32:10
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
@@ -169,6 +169,9 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||222-33544_999.pub.adfirmative.com^
 ||Lack006-PC^
@@ -186,9 +189,6 @@ advertisers.js|
 ||alisat.biz。^
 ||appdwdwd1jomdwdwdcom^
 ||asbestos_dust.blogspot.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||canvas.^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
@@ -198,9 +198,9 @@ advertisers.js|
 ||forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||gm_download3.yy.com^
+||i_sbitinbsjs_info.tlscdn.com^
 ||ghm_bulgaria.hit.gemius.pl^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||i_sbitinbsjs_info.tlscdn.com^
 ||ip6-loopback^
 ||ip6-localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
@@ -213,12 +213,13 @@ advertisers.js|
 ||o_thus.ero-advertising.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||p_third.advertmedias.com^
-||posibilities_en.popunder.net^
 ||philadelphia_cbslocal.us.intellitxt.com^
 ||p_en.popunder.net^
 ||p_third.apsmediaagency.com^
-||prebid_stats.mars.media^
 ||p_third.cpmtrafficker.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||posibilities_en.popunder.net^
+||prebid_stats.mars.media^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||search_fd.php.coolwebsearch.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
