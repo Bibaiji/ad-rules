@@ -1,7 +1,7 @@
 ## ad-rules
 
 广告过滤规则整合，使用 [fordes123/ad-filters-subscriber](https://github.com/fordes123/ad-filters-subscriber) 定时更新
-> 可直接使用我搭建的私人DNS：dns.myipdns.top 详情可见:[Link](https://myipdns.top/archives/DNS) </br>
+> 可直接使用我搭建的私人DNS：dns.myipdns.top 详情可见:[Link](https://zhuanlan.zhihu.com/p/621449144) </br>
 
 
 | 名称            | 说明                                                                   |                                       Github                                       |                                                Gitee                                                 |
