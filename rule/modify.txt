@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-16 22:34:49
+! Last Modified: 2023-04-16 22:39:19
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||101.207.252.229:443^
@@ -6097,30 +6097,3 @@ vzhuan.cn###box
 ::1  localhost
 ## 👇This Part Merge from: https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts
 ::1 localhost
-## 👇This Part Merge from: https://ghproxy.com/https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||-client.net.daraz.com^
-||-demo.net.daraz.com^
-||-tmp.net.daraz.com^
-||-azure-freya.net.daraz.com^
-||_thums.ero-advertising.com^
-||_.apps.iocnt.de^
-||-access-logsacc-sandbox.net.daraz.com^
-||-chef.net.daraz.com^
-||-production10537981.net.daraz.com^
-||-cloudapp-car10.net.daraz.com^
-||-16marketing.net.daraz.com^
-||_sips._sctp.net.daraz.com^
-||_tcp.academyofconsciousleadership.net^
-||-production20151231-1.net.daraz.com^
-||___id___.c.mystat-in.net^
-||-car213apropmdeizy9vjf.net.daraz.com^
-||-productionacc.net.daraz.com^
-||-car2101-echo-tls.net.daraz.com^
-||-access-logs-active.net.daraz.com^
-||-access-logsactive.net.daraz.com^
-## 👇This Part Merge from: https://ghproxy.com/https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||hhbekxxw5d9e.pflexads.com/^
-## 👇This Part Merge from: https://ghproxy.com/https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||s.hiaerk.top:4433^
-## 👇This Part Merge from: https://ghproxy.com/https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||sll.16881616.com:8905^
