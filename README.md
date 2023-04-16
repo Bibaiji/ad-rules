@@ -31,5 +31,6 @@
     <li><a href="https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts">Steam520</a></li>
     <li><a href="https://adaway.org/hosts.txt">Adaway</a></li>
     <li><a href="https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts">大圣净化</a></li>
+    <li><a href="https://github.com/rentianyu/Ad-set-hosts">Ad-set-hosts</a></li>
 </ul>
 </details>
