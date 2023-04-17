@@ -26,7 +26,7 @@ application:
          #ADgk 
          - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
          #No Google 
-         - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt'
+        # - 'https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt'
          #10007 
          - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt'
          #1024 
