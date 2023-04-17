@@ -1,7 +1,10 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-17 10:23:11
+! Last Modified: 2023-04-17 16:31:02
 ! Homepage: https://github.com/Bibaiji/ad-rules/
+## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
+||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
+||tnc*.zijieapi.com^
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -166,9 +169,6 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||222-33544_999.pub.adfirmative.com^
 ||Lack006-PC^
@@ -188,42 +188,42 @@ advertisers.js|
 ||asbestos_dust.blogspot.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||canvas.^
-## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
-||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
-||tnc*.zijieapi.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||dl_dir2.qq.com^
 ||dsp.simba.taobao.com。^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||gm_download3.yy.com^
-||ghm_bulgaria.hit.gemius.pl^
 ||forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||i_sbitinbsjs_info.tlscdn.com^
+||gm_download3.yy.com^
+||ghm_bulgaria.hit.gemius.pl^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||i_sbitinbsjs_info.tlscdn.com^
 ||ip6-loopback^
 ||ip6-localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||m_graph.vidpark.com^
 ||login.digicert.com.^
 ||local^
 ||localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||p_third.advertmedias.com^
-||p_en.popunder.net^
+||m_graph.vidpark.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||o_thus.ero-advertising.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||p_third.advertmedias.com^
+||posibilities_en.popunder.net^
+||philadelphia_cbslocal.us.intellitxt.com^
+||p_en.popunder.net^
 ||p_third.apsmediaagency.com^
 ||p_third.cpmtrafficker.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||posibilities_en.popunder.net^
-||philadelphia_cbslocal.us.intellitxt.com^
-||prebid_stats.mars.media^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||search_fd.php.coolwebsearch.com^
+||prebid_stats.mars.media^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||system0_update04driver_roots.dynamic-dns.net^
 ||sys_andriod20_designer.dynamic-dns.net^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||tnc3-bjlgy.snssdk.^
 ||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
@@ -234,9 +234,9 @@ advertisers.js|
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||www.topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||yourgas^
 ||www.zgarniij_vouchher.skroc.pl^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||yourgas^
 ||zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com^
 ||zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com^
 ||zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com^
