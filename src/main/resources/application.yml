@@ -38,9 +38,9 @@ application:
          #Adaway
          - 'https://adaway.org/hosts.txt'
          #Github加速1 
-         - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
+       #  - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
          #Github加速2 
-         - 'https://raw.hellogithub.com/hosts'
+      #   - 'https://raw.hellogithub.com/hosts'
          #Ad-set-hosts 
          - 'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard'
     #    - 'https://example.org/rule.txt'
