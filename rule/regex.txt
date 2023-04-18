@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-18 16:30:12
+! Last Modified: 2023-04-19 00:28:17
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
@@ -169,6 +169,9 @@ advertisers.js|
 @@||ulog*.*.com^$important
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 ||mishop.pandora.xiaomi.com.^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||222-33544_999.pub.adfirmative.com^
 ||Lack006-PC^
@@ -178,9 +181,6 @@ advertisers.js|
 ||<Tencentgamead1>^
 ||<Tencentgamead2>^
 ||XiaoQiang^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||adman_test.go2cloud.org^
 ||adobeflash31_install.ddns.info^
@@ -204,42 +204,42 @@ advertisers.js|
 ||ip6-loopback^
 ||ip6-localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||m_graph.vidpark.com^
 ||login.digicert.com.^
 ||local^
 ||localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||m_graph.vidpark.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||o_thus.ero-advertising.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||p_third.advertmedias.com^
+||posibilities_en.popunder.net^
 ||philadelphia_cbslocal.us.intellitxt.com^
 ||p_en.popunder.net^
 ||p_third.apsmediaagency.com^
-||p_third.cpmtrafficker.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||posibilities_en.popunder.net^
 ||prebid_stats.mars.media^
+||p_third.cpmtrafficker.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||search_fd.php.coolwebsearch.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||system0_update04driver_roots.dynamic-dns.net^
 ||sys_andriod20_designer.dynamic-dns.net^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||tnc3-bjlgy.snssdk.^
+||upload_data.qq.com^
 ||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||view.atdmt.com.63676.9489.302br.^
-||upload_data.qq.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||www.forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||www.topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||www.zgarniij_vouchher.skroc.pl^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||yourgas^
 ||zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com^
 ||zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com^
 ||zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com^
+||www.zgarniij_vouchher.skroc.pl^
 ||zgarniij_vouchher.skroc.pl^
 ||zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com^
 ||zn_baufuuufwz4y0zr-ally.siteintercept.qualtrics.com^
