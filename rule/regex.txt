@@ -1,10 +1,82 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-19 00:28:17
+! Last Modified: 2023-04-19 10:25:12
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
 ||tnc*.zijieapi.com^
+## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
+||adx.
+||adx-
+||adsfs.
+||adsdk.
+MRelateFeedAd
+||adsmind.
+||adsfile.
+||bigdata.
+||sell*.etlong.com^
+||smartads.
+||adshare.
+||dm-*.toutiao.com^
+||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
+||adstats.
+||toujing*.top^
+||popup.*.js*
+||ggg.
+||advert.
+||irs01.
+||advert-
+||allyes.
+||adcolony.
+||advertising.
+||showad*
+||adservice.
+||pagead.
+||djjca.
+||imageadv.
+||m-vali.cp31.ott.cibntv.net*.mp4
+||epochtimes^
+||ads*-normal-hl.zijieapi.com^
+||adapi.
+getAds|
+||adsfileretry.
+||cpro.
+||m7k4.com*.php?
+||adv.
+||adv-
+||appjiagu.
+||img.piaosugo.com*.jpg
+||adsmis.
+||adserver.
+||sense-*.tapdb.net^
+||ping.*.sogou.com^
+||pc.min.js*
+||minero-proxy-*now.sh
+||pagead2.
+||p*-ad-sign.byteimg.com^
+||guangyaoli.
+||adsense.
+||ading.
+||googleads.
+||umengacs.
+||ads-
+||ad.
+piao.js|
+oHead6205.appendChild( oScript6205);
+||ad-
+||ads.
+||vali-g1.cp31.ott.cibntv.net*.mp4
+||adxapi.
+||gg*.miguvideo.com^
+||adsence.
+||unityads.
+advertisers.js|
+||ap*.jj20.com^
+||yazhouyu.
+||advertise.
+||ap*.pl520.com^
+||tracker*.qcloud.com^
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -47,7 +119,6 @@
 ||dwtrack*.*^
 ||engage.3m*^
 ||adm*.autoimg.cn^
-||ads*-normal-hl.zijieapi.com^
 ||xn--xhq9mt12cf5v.*^
 ||grjs0*.com^
 ||ad-*.com^
@@ -62,7 +133,6 @@
 ||sunnimiq*.cf^
 ||count*.pconline.com.cn^
 ||log*.molitv.cn^
-||ping.*.sogou.com^
 ||adsmogo*.*^
 ||iflyad.*.openstorage.cn^
 ||freecontent.*^
@@ -72,7 +142,6 @@
 ||adservice*.*^
 ||xn--wxtr9fwyxk9c.*^
 ||bs*.9669.cn^
-||p*-ad-sign.byteimg.com^
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
@@ -80,7 +149,6 @@
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
-||gg*.miguvideo.com^
 ||dsp*.youdao.com^
 ||sda*.xyz^
 ||domob*.*^
@@ -97,81 +165,10 @@
 ||qchannel*.cn^
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
-## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
-||adx.
-||adx-
-||adsfs.
-||adsdk.
-MRelateFeedAd
-||adsmind.
-||adsfile.
-||bigdata.
-||sell*.etlong.com^
-||smartads.
-||adshare.
-||dm-*.toutiao.com^
-||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||adstats.
-||toujing*.top^
-||popup.*.js*
-||ggg.
-||advert.
-||irs01.
-||advert-
-||allyes.
-||adcolony.
-||advertising.
-||showad*
-||adservice.
-||pagead.
-||djjca.
-||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
-||epochtimes^
-||adapi.
-getAds|
-||adsfileretry.
-||cpro.
-||m7k4.com*.php?
-||adv.
-||adv-
-||appjiagu.
-||img.piaosugo.com*.jpg
-||adsmis.
-||adserver.
-||sense-*.tapdb.net^
-||pc.min.js*
-||minero-proxy-*now.sh
-||pagead2.
-||guangyaoli.
-||adsense.
-||ading.
-||googleads.
-||umengacs.
-||ads-
-||ad.
-piao.js|
-oHead6205.appendChild( oScript6205);
-||ad-
-||ads.
-||vali-g1.cp31.ott.cibntv.net*.mp4
-||adxapi.
-||adsence.
-||unityads.
-advertisers.js|
-||ap*.jj20.com^
-||yazhouyu.
-||advertise.
-||ap*.pl520.com^
-||tracker*.qcloud.com^
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 @@||ulog*.*.com^$important
 ## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
 ||mishop.pandora.xiaomi.com.^
-## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
-||pagead*.google.com^
-||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||222-33544_999.pub.adfirmative.com^
 ||Lack006-PC^
@@ -181,6 +178,9 @@ advertisers.js|
 ||<Tencentgamead1>^
 ||<Tencentgamead2>^
 ||XiaoQiang^
+## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
+||pagead*.google.com^
+||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||adman_test.go2cloud.org^
 ||adobeflash31_install.ddns.info^
@@ -193,6 +193,7 @@ advertisers.js|
 ||canvas.^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||dl_dir2.qq.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||dsp.simba.taobao.com。^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||gm_download3.yy.com^
@@ -204,21 +205,20 @@ advertisers.js|
 ||ip6-loopback^
 ||ip6-localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||m_graph.vidpark.com^
 ||login.digicert.com.^
 ||local^
 ||localhost^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||m_graph.vidpark.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||o_thus.ero-advertising.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||p_third.advertmedias.com^
-||posibilities_en.popunder.net^
 ||philadelphia_cbslocal.us.intellitxt.com^
 ||p_en.popunder.net^
+||o_thus.ero-advertising.com^
 ||p_third.apsmediaagency.com^
-||prebid_stats.mars.media^
 ||p_third.cpmtrafficker.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||posibilities_en.popunder.net^
+||prebid_stats.mars.media^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||search_fd.php.coolwebsearch.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
