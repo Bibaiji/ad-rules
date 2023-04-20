@@ -21,7 +21,6 @@
     <li><a href="https://nsfw.oisd.nl/">Oisd Nfsw</a></li>
     <li><a href="https://anti-ad.net/easylist.txt">anti-AD</a></li>
     <li><a href="https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt">ADgk</a></li>
-    <li><a href="https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt">No Google</a></li>
     <li><a href="https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt">10007</a></li>
     <li><a href="https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts">1024</a></li>
     <li><a href="https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts">yhosts</a></li>
