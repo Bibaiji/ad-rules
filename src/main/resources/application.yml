@@ -37,6 +37,8 @@ application:
          - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'
          #Adaway
          - 'https://adaway.org/hosts.txt'
+         #冷漠白名单
+         - 'https://github.com/Potterli20/file/releases/download/Allow/allow.txt'
          #Github加速1 
        ##  - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
          #Github加速2 
