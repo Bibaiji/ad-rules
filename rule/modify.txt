@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-21 10:45:50
+! Last Modified: 2023-04-21 10:49:11
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||101.207.252.229:443^
@@ -6090,11 +6090,13 @@ waikeung.info##[height="60"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
 h5galgame.com##IMG[src^="http://up.h5gal.cc/data/attachment/portal/201"]
 vzhuan.cn###box
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||_thums.ero-advertising.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 ::1             localhost
 ::1             ip6-localhost
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||_thums.ero-advertising.com^
+||hhbekxxw5d9e.pflexads.com/^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@|http*:*/roturl.js$script
 @@/sensorsdata.$domain=36kr.com|binance.com|by56.com|canon.com.cn|chuanglan.com|imooc.com|modian.com|saicskoda.com.cn|shanbay.com|tianyancha.com
@@ -9081,7 +9083,8 @@ vzhuan.cn###box
 @@||adswizz.com/anon.npr-mp3/*$media,domain=podbay.fm|podbean.com
 @@||ads.planetwin365affiliate.com/redirect.aspx?$popup,domain=superscommesse.it
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||hhbekxxw5d9e.pflexads.com/^
+||s.hiaerk.top:4433^
+||sll.16881616.com:8905^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||advertising.videonova.ua^$domain=advertising.videonova.ua
 @@||akamaihd.net^*/analyticssdk.js$script,domain=ubisoft.com|ubisoftconnect.com
@@ -10839,10 +10842,6 @@ vzhuan.cn###box
 @@||authy.com/wp-content/themes/authy/assets/images/icons/footer-twitter.svg
 @@||awempt.com/embed/$script,domain=sexcamfreeporn.com
 @@||atresplayer.com^$ghide
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||s.hiaerk.top:4433^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||sll.16881616.com:8905^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||b.scorecardresearch.com/beacon.js$domain=premiumsporthd.it
 @@||b92.net/a/cmt_submit.php$document

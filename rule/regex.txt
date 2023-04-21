@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-21 10:45:50
+! Last Modified: 2023-04-21 10:49:11
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
@@ -78,7 +78,6 @@
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
-||gg*.miguvideo.com^
 ||dsp*.youdao.com^
 ||sda*.xyz^
 ||domob*.*^
@@ -157,6 +156,7 @@ oHead6205.appendChild( oScript6205);
 ||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
+||gg*.miguvideo.com^
 ||adsence.
 ||unityads.
 advertisers.js|
@@ -190,33 +190,56 @@ advertisers.js|
 ||canvas.^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||dl_dir2.qq.com^
+||dsp.simba.taobao.com。^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||gm_download3.yy.com^
+||ghm_bulgaria.hit.gemius.pl^
+||forgotten_dark_angel.tripod.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||i_sbitinbsjs_info.tlscdn.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||ip6-loopback^
+||ip6-localhost^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||login.digicert.com.^
+||local^
+||localhost^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||m_graph.vidpark.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||o_thus.ero-advertising.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@login.php?redirect_
 @@favicon.ico|
 @@livemsg
 @@AC_RunActiveContent.js
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||forgotten_dark_angel.tripod.com^
-||dsp.simba.taobao.com。^
+||p_third.advertmedias.com^
+||philadelphia_cbslocal.us.intellitxt.com^
+||p_en.popunder.net^
+||p_third.apsmediaagency.com^
+||p_third.cpmtrafficker.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||BlockedbyMahakala^
 @@||RZDgoogle^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||posibilities_en.popunder.net^
+||prebid_stats.mars.media^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||adobeid-*.services.adobe.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||gm_download3.yy.com^
-||i_sbitinbsjs_info.tlscdn.com^
-||ghm_bulgaria.hit.gemius.pl^
+||search_fd.php.coolwebsearch.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||advertising.yandex.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||ip6-loopback^
-||ip6-localhost^
+||system0_update04driver_roots.dynamic-dns.net^
+||sys_andriod20_designer.dynamic-dns.net^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||m_graph.vidpark.com^
-||login.digicert.com.^
-||local^
-||localhost^
+||tnc3-bjlgy.snssdk.^
+||upload_data.qq.com^
+||topmodel_virginie.cmonbook.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||view.atdmt.com.63676.9489.302br.^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||amex^$important
 @@||amsterdam^$important
@@ -224,44 +247,24 @@ advertisers.js|
 @@||animetake*.
 @@||animedao*.stream^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||o_thus.ero-advertising.com^
+||www.forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||apple^$important
 @@||api.browser.yandex.
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||p_third.advertmedias.com^
-||philadelphia_cbslocal.us.intellitxt.com^
-||p_en.popunder.net^
-||p_third.apsmediaagency.com^
-||p_third.cpmtrafficker.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||posibilities_en.popunder.net^
-||prebid_stats.mars.media^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||system0_update04driver_roots.dynamic-dns.net^
-||search_fd.php.coolwebsearch.com^
-||sys_andriod20_designer.dynamic-dns.net^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||tnc3-bjlgy.snssdk.^
-||upload_data.qq.com^
-||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||beer^$important
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||www.topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||pagead*.google.com^
 ||ad.*.xiaomi.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||view.atdmt.com.63676.9489.302br.^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||www.forgotten_dark_angel.tripod.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||www.topmodel_virginie.cmonbook.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||yourgas^
+||www.zgarniij_vouchher.skroc.pl^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com^
 ||zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com^
 ||zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com^
-||www.zgarniij_vouchher.skroc.pl^
 ||zgarniij_vouchher.skroc.pl^
 ||zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com^
 ||zn_baufuuufwz4y0zr-ally.siteintercept.qualtrics.com^
