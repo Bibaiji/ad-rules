@@ -27,5 +27,6 @@
     <li><a href="https://github.com/TG-Twilight/AWAvenue-Adblock-Rule">AWAvenue-Adblock-Rule</a></li>
     <li><a href="https://adaway.org/hosts.txt">Adaway</a></li>
     <li><a href="https://github.com/rentianyu/Ad-set-hosts">Ad-set-hosts</a></li>
+    <li><a href="https://github.com/Potterli20/file/releases/download/Allow/allow.txt">冷漠白名单</a></li>
 </ul>
 </details>
