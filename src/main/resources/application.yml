@@ -35,8 +35,16 @@ application:
          - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'
          #Adaway
          - 'https://adaway.org/hosts.txt'
-         #冷漠白名单
-         - 'https://github.com/Potterli20/file/releases/download/Allow/allow.txt'
+         #qq5460168-black
+         - 'https://jihulab.com/qq5460168/5460/-/raw/master/black.txt'
+         #qq5460168-white
+         - 'https://jihulab.com/qq5460168/5460/-/raw/master/white.txt'
+         #xlxbk-black
+         - 'https://www.xlxbk.cn/dns.txt'
+         #xlxbk-white
+         - 'https://www.xlxbk.cn/allow.txt'
+         #Cats-Team
+         - 'https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt'
          #Github加速1 
        ##  - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
          #Github加速2 
