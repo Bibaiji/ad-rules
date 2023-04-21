@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-21 10:41:30
+! Last Modified: 2023-04-21 10:45:50
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: /home/runner/work/ad-rules/ad-rules/rule/local-rule.txt
 ||pglstatp-toutiao.com^  ​‌​‍‍‍‍‌‍‌​​​‌‍
@@ -47,7 +47,6 @@
 ||dwtrack*.*^
 ||engage.3m*^
 ||adm*.autoimg.cn^
-||ads*-normal-hl.zijieapi.com^
 ||xn--xhq9mt12cf5v.*^
 ||grjs0*.com^
 ||ad-*.com^
@@ -72,7 +71,6 @@
 ||adservice*.*^
 ||xn--wxtr9fwyxk9c.*^
 ||bs*.9669.cn^
-||p*-ad-sign.byteimg.com^
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
@@ -129,6 +127,7 @@ MRelateFeedAd
 ||imageadv.
 ||m-vali.cp31.ott.cibntv.net*.mp4
 ||epochtimes^
+||ads*-normal-hl.zijieapi.com^
 ||adapi.
 getAds|
 ||adsfileretry.
@@ -144,6 +143,7 @@ getAds|
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
+||p*-ad-sign.byteimg.com^
 ||guangyaoli.
 ||adsense.
 ||ading.
@@ -190,14 +190,25 @@ advertisers.js|
 ||canvas.^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||dl_dir2.qq.com^
+## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
+@@login.php?redirect_
+@@favicon.ico|
+@@livemsg
+@@AC_RunActiveContent.js
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||forgotten_dark_angel.tripod.com^
 ||dsp.simba.taobao.com。^
+## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
+@@||BlockedbyMahakala^
+@@||RZDgoogle^
+## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
+@@||adobeid-*.services.adobe.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||gm_download3.yy.com^
-||ghm_bulgaria.hit.gemius.pl^
-||forgotten_dark_angel.tripod.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||i_sbitinbsjs_info.tlscdn.com^
+||ghm_bulgaria.hit.gemius.pl^
+## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
+@@||advertising.yandex.
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||ip6-loopback^
 ||ip6-localhost^
@@ -207,54 +218,42 @@ advertisers.js|
 ||local^
 ||localhost^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
-@@login.php?redirect_
-@@favicon.ico|
-@@livemsg
-@@AC_RunActiveContent.js
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||o_thus.ero-advertising.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||p_third.advertmedias.com^
-||posibilities_en.popunder.net^
-||philadelphia_cbslocal.us.intellitxt.com^
-||p_en.popunder.net^
-||p_third.apsmediaagency.com^
-||p_third.cpmtrafficker.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||prebid_stats.mars.media^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||search_fd.php.coolwebsearch.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||system0_update04driver_roots.dynamic-dns.net^
-||sys_andriod20_designer.dynamic-dns.net^
-||tnc3-bjlgy.snssdk.^
-||topmodel_virginie.cmonbook.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||view.atdmt.com.63676.9489.302br.^
-||upload_data.qq.com^
-## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
-@@||BlockedbyMahakala^
-@@||RZDgoogle^
-## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
-@@||adobeid-*.services.adobe.com^
-## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
-@@||advertising.yandex.
-## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||amex^$important
 @@||amsterdam^$important
 @@||americanexpress^$important
 @@||animetake*.
 @@||animedao*.stream^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||www.forgotten_dark_angel.tripod.com^
+||o_thus.ero-advertising.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||apple^$important
 @@||api.browser.yandex.
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||p_third.advertmedias.com^
+||philadelphia_cbslocal.us.intellitxt.com^
+||p_en.popunder.net^
+||p_third.apsmediaagency.com^
+||p_third.cpmtrafficker.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||posibilities_en.popunder.net^
+||prebid_stats.mars.media^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||system0_update04driver_roots.dynamic-dns.net^
+||search_fd.php.coolwebsearch.com^
+||sys_andriod20_designer.dynamic-dns.net^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||tnc3-bjlgy.snssdk.^
+||upload_data.qq.com^
+||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://github.com/Potterli20/file/releases/download/Allow/allow.txt
 @@||beer^$important
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
 ||pagead*.google.com^
 ||ad.*.xiaomi.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||view.atdmt.com.63676.9489.302br.^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||www.forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||www.topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
