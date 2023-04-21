@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-21 13:00:40
+! Last Modified: 2023-04-21 16:28:33
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 ::1             localhost
@@ -64,6 +64,8 @@
 /^(\S+\.)?hg[0-9]{4,5}\.com?$/
 /^(\S+\.)?pixels?\./
 ||*-analytics*.huami.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||_thums.ero-advertising.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzi.ca,twoeggz.com###pop
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
@@ -6027,13 +6029,13 @@ www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"
 h5galgame.com##IMG[src^="http://up.h5gal.cc/data/attachment/portal/201"]
 vzhuan.cn###box
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||_thums.ero-advertising.com^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||hhbekxxw5d9e.pflexads.com/^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||s.hiaerk.top:4433^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||sll.16881616.com:8905^
+## 👇This Part Merge from: https://adaway.org/hosts.txt
+::1  localhost
 ## 👇This Part Merge from: https://jihulab.com/qq5460168/5460/-/raw/master/black.txt
 tcp://
 ||117.174.147.220:80^
@@ -6056,8 +6058,6 @@ tcp://101.206.241.228:80
 ||games.mobileapi.hupu.com/1/8.0.14/bplapi/device/v1/frontendofflinepkg/up gradeListByCodes?pkgCode=&pkgVersion=0&cid=132236015$app=com.hupu.games
 ||api.map.baidu.com^$app=com.baidu.map.location
 /googleads.$~script,domain=~googleads.github.io
-## 👇This Part Merge from: https://adaway.org/hosts.txt
-::1  localhost
 ## 👇This Part Merge from: https://jihulab.com/qq5460168/5460/-/raw/master/white.txt
 @@||jd.com^important
 @@||act.vip.iqiyi.com^$importan
