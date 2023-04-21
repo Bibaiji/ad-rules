@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-04-21 12:56:41
+! Last Modified: 2023-04-21 13:00:40
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
 ||ads*.dfiles.eu^
@@ -16,7 +16,6 @@
 ||ad.kisstvshow.*^
 ||at*.doubanio.com^
 ||adi*.cnool.net^
-||admicro*.vcmedia.vn^
 ||ads*.depositfiles.com^
 ||ads*.depositfiles.org^
 ||api.*.hismarttv.com^
@@ -33,43 +32,10 @@
 ||163487*.qmgmw.com^
 ||ajx*.online^
 ||ap*.pl520.com^
-||ads*-normal-hl.zijieapi.com^
 ||apple.com-*.live^
 ||access.pangolin-sdk-toutiao-*.com^
 ||ad.*.xiaomi.com^
-||ads*-adnow.com^
 ||asd8900.oss-*.aliyuncs.com^
-## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
-@@||ulog*.*.com^$important
-## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
-||mishop.pandora.xiaomi.com.^
-## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
-||bdcpro*.techweb.com.cn^
-||dm*.ppzuowen.com^
-||browser-update.*.top^
-||bd*-ys.km.com^
-||cj1*.online^
-||d*.ruiwen.com^
-||ejghgjhhgadcdchjaada.ru.^
-||dn*.ixinwei.com^
-||dm-*.toutiao.com^
-||bdlm*.hc360.com^
-||collector.hamsterix.*^
-||counter*.stat.ovh^
-||collector-*.px-cloud.net^
-||bjkedv*.xyz^
-||collector-*.tvsquared.com^
-||d*.xinshipu.com^
-||display-ad-*.kgslb.com^
-||bj1*.online^
-||dm*.yxlady.com^
-||collector-*.px-client.net^
-||ej1*.online^
-||collector-*.us.tvsquared.com^
-||collect.*.miui.com^
-||collector.xhamster*.*^
-||cas.*.criteo.com^
-||dj1*.online^
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 ||da.hornbach.*^
 ||appsflyer*.*^
@@ -112,12 +78,14 @@
 ||dwtrack*.*^
 ||engage.3m*^
 ||adm*.autoimg.cn^
+||ads*-normal-hl.zijieapi.com^
 ||xn--xhq9mt12cf5v.*^
 ||grjs0*.com^
 ||ad-*.com^
 ||applovin*.*^
 ||hostingcloud.*^
 ||vegaoo*.*^
+||ads*-adnow.com^
 ||clkservice*.youdao.com^
 ||supersonicads*.*^
 ||putrr*.com^
@@ -139,6 +107,7 @@
 ||pingfore*.*^
 ||pussl*.com^
 ||openx*.*^
+||admicro*.vcmedia.vn^
 ||darking*.tk^
 ||ad*.molitv.cn^
 ||ablen*.tk^
@@ -160,26 +129,95 @@
 ||gg*.51cto.com^
 ||analyzer*.fc2.com^
 ## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
+||bdcpro*.techweb.com.cn^
+||dm*.ppzuowen.com^
+||browser-update.*.top^
+||bd*-ys.km.com^
+||cj1*.online^
+||d*.ruiwen.com^
+||ejghgjhhgadcdchjaada.ru.^
+||dn*.ixinwei.com^
+||dm-*.toutiao.com^
+||bdlm*.hc360.com^
+||collector.hamsterix.*^
+||counter*.stat.ovh^
+||collector-*.px-cloud.net^
+||bjkedv*.xyz^
+||collector-*.tvsquared.com^
+||d*.xinshipu.com^
+||display-ad-*.kgslb.com^
+||bj1*.online^
+||dm*.yxlady.com^
+||collector-*.px-client.net^
+||ej1*.online^
+||collector-*.us.tvsquared.com^
+||collect.*.miui.com^
+||collector.xhamster*.*^
+||cas.*.criteo.com^
+||dj1*.online^
+## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
 ||fra-*.braze.eu^
 ||liveweb*.msstatic.com^
-||hads*s.com^
+||log-api.pangolin-sdk-toutiao-*.com^
 ||js.*2023*.live^
 ||impservice*.youdao.com^
 ||fls-*.amazon.com^
-||gcw*.2liang.cn^
-||fads*s.com^
 ||fanpingbi*.gaokao.com^
-||impservice*.yodao.com^
 ||gads*s.com^
-||js.*2023*.xyz^
-||livetracker.*.pangea-cms.com^
 ||fads*z.com^
 ||fpb*.51edu.com^
+||ja*.gamersky.com^
+||log-*.previewnetworks.com^
+||hostingcloud.*.wasm^
+||log-*.epicdn.me^
+||hads*s.com^
+||gcw*.2liang.cn^
+||fads*s.com^
+||impservice*.yodao.com^
+||js.*2023*.xyz^
+||livetracker.*.pangea-cms.com^
+||log*-normal-lq.toutiaoapi.com^
+||log*.ku6.com^
 ||js*.abolezi.com^
 ||gads*z.com^
-||ja*.gamersky.com^
+||log-*.zadn.vn^
 ||hbbtv.*.de^
-||hostingcloud.*.wasm^
+## 👇This Part Merge from: https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt
+@@||ulog*.*.com^$important
+||mishop.pandora.xiaomi.com.^
+## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
+||sf*-fe-tos.pglstatp-toutiao.com^
+||mobileanalytics.*.amazonaws.com^
+||pijama.*.elasticbeanstalk.com^
+||ping*.qq.com^
+||mobileoffers-*-download.com^
+||player-feedback*.glomex.*^
+||s*a.pstatp.com^
+||n*adserv.xyz^
+||piwik.*.vn^
+||sense-*.tapdb.net^
+||mcdp-*.outbrain.com^
+||mautic.*.vn^
+||sd.yhzzzs*.com^
+||s*-fe-scm.pglstatp-toutiao.com^
+||matomo.*.vn^
+||p26.gejulm*.com^
+||play*.videos.vidto.me^
+||popadex-*.us-east-1.elb.amazonaws.com^
+||mads*z.com^
+||prebid-*.rubiconproject.com^
+||mistat.*.xiaomi.com^
+||same*.stockstar.com^
+||sf*-be-pack.pglstatp-toutiao.com^
+||piwik.*.com.vn^
+||opnked*.xyz^
+||promo-*.vercel.app^
+||n*adserv.com^
+||sam*.baby-kingdom.com^
+||qpb*.sohu.com^
+||s*.skencituer.com^
+||polaris*-normal-lq.zijieapi.com^
+||sads*z.com^
 ## 👇This Part Merge from: https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt
 ||adx.
 ||adx-
@@ -222,7 +260,6 @@ getAds|
 ||img.piaosugo.com*.jpg
 ||adsmis.
 ||adserver.
-||sense-*.tapdb.net^
 ||pc.min.js*
 ||minero-proxy-*now.sh
 ||pagead2.
@@ -245,76 +282,6 @@ advertisers.js|
 ||yazhouyu.
 ||advertise.
 ||tracker*.qcloud.com^
-## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
-||mobileanalytics.*.amazonaws.com^
-||log-api.pangolin-sdk-toutiao-*.com^
-||pijama.*.elasticbeanstalk.com^
-||ping*.qq.com^
-||mobileoffers-*-download.com^
-||player-feedback*.glomex.*^
-||n*adserv.xyz^
-||piwik.*.vn^
-||mcdp-*.outbrain.com^
-||mautic.*.vn^
-||matomo.*.vn^
-||p26.gejulm*.com^
-||play*.videos.vidto.me^
-||popadex-*.us-east-1.elb.amazonaws.com^
-||log-*.previewnetworks.com^
-||mads*z.com^
-||prebid-*.rubiconproject.com^
-||log-*.epicdn.me^
-||mistat.*.xiaomi.com^
-||piwik.*.com.vn^
-||log*-normal-lq.toutiaoapi.com^
-||opnked*.xyz^
-||promo-*.vercel.app^
-||log*.ku6.com^
-||n*adserv.com^
-||log-*.zadn.vn^
-||qpb*.sohu.com^
-||polaris*-normal-lq.zijieapi.com^
-## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
-||sf*-fe-tos.pglstatp-toutiao.com^
-||tracking.*.miui.com^
-||stat.*.v-56.com^
-||same*.stockstar.com^
-||uc*.atobo.com^
-||stats-*.p2pnow.ru^
-||s*a.pstatp.com^
-||thezbpe5*.xyz^
-||sf*-be-pack.pglstatp-toutiao.com^
-||stats2.*.fdnames.com^
-||sd.yhzzzs*.com^
-||tnc*.zijieapi.com^
-||s*-fe-scm.pglstatp-toutiao.com^
-||transit*.wslog.chinanetcenter.com^
-||tblog-*.kgslb.com^
-||sam*.baby-kingdom.com^
-||s*.skencituer.com^
-||static*.365inews.com^
-||sads*z.com^
-## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
-||zazgiyoh*.world^
-||zcchyr*.xyz^
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||zabdybod*.club^
-||v*-be-pack.pglstatp-toutiao.com^
-||yhsfsdv*.com^
-||zaqlovh*.xyz^
-||zazgiyoh*.xyz^
-||zcchyw*.xyz^
-||zazgbqg*.xyz^
-||ulog*.*^
-||v*.denakop.com^
-||zbc6hye*.xyz^
-||www.xxmh*.com^
-||ya*.dwstatic.com^
-||zahrvfbd*.xyz^
-||zbc6hy*.live^
-||union*.365inews.com^
-||vns86.oss-*.aliyuncs.com^
-||ysdm*.ys137.com.cn^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||222-33544_999.pub.adfirmative.com^
 ||Lack006-PC^
@@ -343,6 +310,37 @@ advertisers.js|
 ||gm_download3.yy.com^
 ||i_sbitinbsjs_info.tlscdn.com^
 ||ghm_bulgaria.hit.gemius.pl^
+## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
+||tracking.*.miui.com^
+||zcchyr*.xyz^
+||uc*.atobo.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||zaqlovh*.xyz^
+||zazgiyoh*.xyz^
+||zcchyw*.xyz^
+||ulog*.*^
+||transit*.wslog.chinanetcenter.com^
+||ya*.dwstatic.com^
+||static*.365inews.com^
+||ysdm*.ys137.com.cn^
+||stat.*.v-56.com^
+||zazgiyoh*.world^
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||stats-*.p2pnow.ru^
+||zabdybod*.club^
+||yhsfsdv*.com^
+||thezbpe5*.xyz^
+||zazgbqg*.xyz^
+||stats2.*.fdnames.com^
+||v*.denakop.com^
+||tnc*.zijieapi.com^
+||zbc6hye*.xyz^
+||www.xxmh*.com^
+||tblog-*.kgslb.com^
+||zahrvfbd*.xyz^
+||zbc6hy*.live^
+||union*.365inews.com^
+||vns86.oss-*.aliyuncs.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||ip6-loopback^
 ||ip6-localhost^
@@ -361,16 +359,17 @@ advertisers.js|
 ||p_third.apsmediaagency.com^
 ||p_third.cpmtrafficker.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||search_fd.php.coolwebsearch.com^
 ||prebid_stats.mars.media^
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||search_fd.php.coolwebsearch.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||system0_update04driver_roots.dynamic-dns.net^
 ||sys_andriod20_designer.dynamic-dns.net^
+||tnc3-bjlgy.snssdk.^
+||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||view.atdmt.com.63676.9489.302br.^
-||tnc3-bjlgy.snssdk.^
 ||upload_data.qq.com^
-||topmodel_virginie.cmonbook.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||www.forgotten_dark_angel.tripod.com^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt
