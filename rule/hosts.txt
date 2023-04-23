@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2023-04-23 16:27:08
+! Last Modified: 2023-04-24 00:32:25
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts
 127.0.0.1 www.chemdraw.com.cn
