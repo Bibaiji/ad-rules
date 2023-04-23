@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-23 10:32:06
+! Last Modified: 2023-04-23 16:27:08
 ! Homepage: https://github.com/Bibaiji/ad-rules/
 ## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
 ::1             localhost
@@ -6032,8 +6032,6 @@ vzhuan.cn###box
 ||hhbekxxw5d9e.pflexads.com/^
 ## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
 ||s.hiaerk.top:4433^
-## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
-||sll.16881616.com:8905^
 ## 👇This Part Merge from: https://jihulab.com/qq5460168/5460/-/raw/master/black.txt
 tcp://
 ||117.174.147.220:80^
@@ -6056,6 +6054,8 @@ tcp://101.206.241.228:80
 ||games.mobileapi.hupu.com/1/8.0.14/bplapi/device/v1/frontendofflinepkg/up gradeListByCodes?pkgCode=&pkgVersion=0&cid=132236015$app=com.hupu.games
 ||api.map.baidu.com^$app=com.baidu.map.location
 /googleads.$~script,domain=~googleads.github.io
+## 👇This Part Merge from: https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard
+||sll.16881616.com:8905^
 ## 👇This Part Merge from: https://adaway.org/hosts.txt
 ::1  localhost
 ## 👇This Part Merge from: https://jihulab.com/qq5460168/5460/-/raw/master/white.txt
