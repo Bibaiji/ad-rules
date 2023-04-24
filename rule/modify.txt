@@ -1,10 +1,7 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-04-24 13:42:18
+! Last Modified: 2023-04-24 16:31:06
 ! Homepage: https://github.com/Bibaiji/ad-rules/
-## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
-::1             localhost
-::1             ip6-localhost
 ## 👇This Part Merge from: https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt
 ||*.gtlpa*.com^
 ||*.miaozhen.com^
@@ -19,6 +16,9 @@
 ||*.getui.com^
 ||*.go.sohu.com^
 ||*.umengcloud.com^
+## 👇This Part Merge from: https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts
+::1             localhost
+::1             ip6-localhost
 ## 👇This Part Merge from: https://anti-ad.net/easylist.txt
 /^(\S+\.)?s?metrics\./
 /^(\S+\.)?61677[\da-z]{0,20}\.com$/
