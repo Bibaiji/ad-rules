@@ -27,10 +27,6 @@ application:
          - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
          #10007 
          - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt'
-         #1024 
-         - 'https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts'
-         #yhosts 
-         - 'https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts'
          #秋风
          - 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Adblock-Rule/main/AWAvenue-Adblock-Rule.txt'
          #Adaway
