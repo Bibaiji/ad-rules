@@ -24,5 +24,7 @@
     <li><a href="https://github.com/Cats-Team/AdRules">Cats-Team</a></li>
     <li><a href="https://www.xlxbk.cn/s/glgz/">xlxbk</a></li>
     <li><a href="https://jihulab.com/qq5460168/5460">qq5460168</a></li>
+    <li><a href="https://github.com/Potterli20">Potterli20</a></li>
+    <li><a href="https://github.com/521xueweihan">521xueweihan</a></li>
 </ul>
 </details>
