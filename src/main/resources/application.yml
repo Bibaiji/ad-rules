@@ -41,10 +41,14 @@ application:
          - 'https://www.xlxbk.cn/allow.txt'
          #Cats-Team
          - 'https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt'
-         #Github加速1 
-       #   - 'https://gitlab.com/jdlingyu/ext_rules/raw/main/hosts/hosts'
-         #Github加速2 
-       #   - 'https://raw.hellogithub.com/hosts'
+         #Steam520
+         - 'https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts'
+         #Gfw
+         - 'https://github.com/Potterli20/file/releases/download/github-hosts/gfw-Hosts.txt'
+         #Accelerete -Hosts
+         - 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt'
+         #hellogithub
+         - 'https://raw.hellogithub.com/hosts'
          #Ad-set-hosts 
          - 'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard'
     #    - 'https://example.org/rule.txt'
