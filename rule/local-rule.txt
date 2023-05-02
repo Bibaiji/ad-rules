@@ -3,6 +3,7 @@
 #百度
 @@||www.baidu.com^$important
 @@||www.baidu.cn^$important
+||loc.map.baidu.com^$important
 #小米商店
 @@||market.xiaomi.com^$important
 #饿了么小程序
