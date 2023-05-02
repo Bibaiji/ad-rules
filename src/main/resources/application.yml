@@ -34,7 +34,7 @@ application:
          #qq5460168-black
          - 'https://jihulab.com/qq5460168/5460/-/raw/master/black.txt'
          #qq5460168-white
-         - 'https://jihulab.com/qq5460168/5460/-/raw/master/white.txt'
+     #    - 'https://jihulab.com/qq5460168/5460/-/raw/master/white.txt'
          #xlxbk-black
          - 'https://www.xlxbk.cn/dns.txt'
          #xlxbk-white
