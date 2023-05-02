@@ -1,5 +1,6 @@
 #淘宝
 ||umengjmacs.m.taobao.com^$important
+||amdcopen.m.taobao.com^$important
 #百度
 @@||www.baidu.com^$important
 @@||www.baidu.cn^$important
