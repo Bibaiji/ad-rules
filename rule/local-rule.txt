@@ -1,6 +1,8 @@
+#淘宝
+||umengjmacs.m.taobao.com^$important
 #百度
-@@||baidu.com^$important
-@@||baidu.cn^$important
+@@||www.baidu.com^$important
+@@||www.baidu.cn^$important
 #小米商店
 @@||market.xiaomi.com^$important
 #饿了么小程序
