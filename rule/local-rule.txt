@@ -1,7 +1,6 @@
 ||umengjmacs.m.taobao.com^$important
 ||loc.map.baidu.com^$important
 ||amdcopen.m.taobao.com^$important
-
 @@||dc.sigmob.cn^$important
 @@||adservice.sigmob.cn^$important
 @@||dgstatic.jd.com/dg/ksdk/mid-page.html^$important
@@ -49,15 +48,6 @@
 @@||cdn77-vid.xvideos-cdn.com^$important
 @@||api.miwifi.com^$important
 @@||cmts.iqiyi.com^$important
-
-
-
-
-
-
-
-
-
 ##阿里云盘网络验证码
 @@||acs.m.taobao.com^$important
 ##夸克网盘扫码登陆
@@ -91,7 +81,6 @@
 @@||msg.douyu.com^$important
 @@||bjfesdk.douyucdn.cn^$important
 @@||gift.douyucdn.cn^$important
-
 !酷安
 @@||316.coolapk1s.com^$important
 @@||api.coolapk.com^$important
@@ -101,7 +90,6 @@
 @@||lf3-cdn-tos.bytegoofy.com^$important
 @@||lf6-cdn-tos.bytegoofy.com^$important
 @@||lf1-cdn-tos.bytegoofy.com^$important
-
 #淘宝
 ||umengjmacs.m.taobao.com^$important
 ||amdcopen.m.taobao.com^$important
