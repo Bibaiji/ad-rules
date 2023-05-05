@@ -1,3 +1,6 @@
+#腾讯视频图片
+@@||puui.qpic.cn^$important
+
 ||umengjmacs.m.taobao.com^$important
 ||loc.map.baidu.com^$important
 ||amdcopen.m.taobao.com^$important
