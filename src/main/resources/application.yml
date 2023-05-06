@@ -42,13 +42,13 @@ application:
          #Cats-Team
          - 'https://gitlab.com/cats-team/adrules/-/raw/main/dns.txt'
          #Steam520
-    #     - 'https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts'
+         - 'https://cdn.jsdelivr.net/gh/pboymt/Steam520/hosts'
          #Gfw
-    #     - 'https://github.com/Potterli20/file/releases/download/github-hosts/gfw-Hosts.txt'
+         - 'https://github.com/Potterli20/file/releases/download/github-hosts/gfw-Hosts.txt'
          #Accelerete -Hosts
-    #     - 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt'
+         - 'https://github.com/Potterli20/file/releases/download/github-hosts/Accelerate-Hosts.txt'
          #hellogithub
-    #     - 'https://raw.hellogithub.com/hosts'
+         - 'https://raw.hellogithub.com/hosts'
          #Ad-set-hosts 
          - 'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard'
     #    - 'https://example.org/rule.txt'
