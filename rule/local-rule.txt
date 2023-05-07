@@ -1,5 +1,8 @@
 #腾讯视频图片
 @@||puui.qpic.cn^$important
+#快手
+@@||netease.com^
+@@||gdfp.gifshow.com^
 #douyincdn
 ||douyincdn.com^
 #番茄
