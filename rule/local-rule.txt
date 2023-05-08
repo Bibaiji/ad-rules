@@ -1,8 +1,12 @@
 #腾讯视频图片
 @@||puui.qpic.cn^$important
 #快手
-@@||netease.com^
+@@||kwimgs.com^$important
 @@||gdfp.gifshow.com^
+#网易
+@@||netease.com^
+
+
 #douyincdn
 ||douyincdn.com^
 #番茄
