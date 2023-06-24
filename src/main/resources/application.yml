@@ -18,7 +18,9 @@ application:
     #远程规则
     remote:
          #Oisd Big 
-         - 'https://big.oisd.nl/'
+    # #  - 'https://big.oisd.nl/'
+         #Oisd Small
+         - 'https://small.oisd.nl'
          #Oisd Nfsw 
          - 'https://nsfw.oisd.nl/'
          #anti-AD 
