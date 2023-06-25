@@ -26,7 +26,7 @@ application:
          #anti-AD 
          - 'https://anti-ad.net/easylist.txt'
          #ADgk 
-         - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
+    # #  - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
          #10007 
          - 'https://raw.gitmirror.com/lingeringsound/10007/main/adb.txt'
          #秋风
