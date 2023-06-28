@@ -56,7 +56,7 @@ application:
     #    - 'https://example.org/rule.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
-        - 'local-rule.txt'
+    # # - 'local-rule.txt'
  #   #  - 'local-rule.txt'
   output:
     file_header: |  #输出文件头, 占位符${name}将被替换为文件名，如all.txt,  ${date} 将被替换为当前日期
