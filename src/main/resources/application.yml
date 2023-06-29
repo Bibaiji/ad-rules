@@ -52,7 +52,7 @@ application:
          #hellogithub
     #    - 'https://raw.hellogithub.com/hosts'
          #Ad-set-hosts 
-         - 'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard'
+    #    - 'https://raw.githubusercontent.com/rentianyu/Ad-set-hosts/master/adguard'
     #    - 'https://example.org/rule.txt'
     #本地规则
     local: #本地规则请将文件移动到项目路径rule目录中
