@@ -22,9 +22,9 @@ application:
          #Oisd Small
          - 'https://small.oisd.nl'
          #Oisd Nfsw 
-         - 'https://nsfw.oisd.nl/'
+    # #  - 'https://nsfw.oisd.nl/'
          #anti-AD 
-         - 'https://anti-ad.net/easylist.txt'
+    # #  - 'https://anti-ad.net/easylist.txt'
          #ADgk 
     # #  - 'https://cdn.jsdelivr.net/gh/banbendalao/ADgk@master/ADgk.txt'
          #10007 
